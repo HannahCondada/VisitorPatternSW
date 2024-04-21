@@ -35,5 +35,5 @@ Test your codes before the given client program:
     }
 
 #Visitor Pattern Diagram
-![Vistor Pattern Diagram](https://github.com/HannahCondada/VisitorPatternSW/assets/142371011/30f81b71-1cc4-4358-a44a-ed0ac2f81788)
+![Visitor Pattern Diagram](https://github.com/HannahCondada/VisitorPatternSW/assets/142371011/6ceceb37-1705-4620-9212-f7e2c4b16a20)
 
